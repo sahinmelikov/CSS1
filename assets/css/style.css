@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior:smooth ;
+}
+.color{
+    color: white;
+}
+.width{
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(88, 87, 85);
+    background-attachment: fixed;
+}
+.kvadrat{
+    width:85%;
+    height: 100%;
+    background-color: rgb(88,87, 85);
+    margin: 0px auto;
+   background-attachment: fixed;
+    }
+.ul .li{
+    list-style: none;
+    display: inline;
+    padding-right:10px ;
+    padding-right:2px 0 0 0 ;
+}
+.f-right{
+    float: right;
+}
+.f-left{
+    float: left;
+}
+
+
+.padding{
+    padding-top: 3%;
+}
+.size{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+.img{
+    width: 1365px;
+    height: 720px;
+    background-image: url(../css/thumb-1920-50398.jpg);
+}
+.align{
+    text-align: center;
+    padding: 5cm 0 0 0;
+    font-size: 60px;
+}
+.center{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 56px;
+   background-color: rgb(207, 34, 150);   
+}
+.new-section{
+    width: 100vw;
+    height: 80vh;
+    background-color:white;
+    
+}
+.new-2{
+    width: 80%;
+    height: 100%;
+    background-color:white;
+    margin: 0 auto;
+}
+.size-2{
+    font-size: 45px;
+}
+.img-2{
+    width:9cm;
+    height: 8cm;
+    display: inline;
+    background-image: url(../css/01.jpg);
+   margin: 1cm 0 0 0;
+    border-radius:100%;
+   
+}
+.For{
+    padding: 2cm 0 0 0;
+}
+.section-2{
+    width: 100vw;
+    height:80vh;
+    background-color: white;
+}
+.new-section-2{
+    width: 80%;
+    height: 100%;
+    background-color:white;
+    margin: 0 auto;
+}
+.img-3{
+    width: 300px;;
+    height: 300px;
+    display: inline;
+    background-image: url(../css/02.jpg);
+   
+   
+    border-radius:100%;
+
+}
+.display{
+    display: inline;
+    padding: 0 0 0 7cm;
+}
+
+.section-3{
+    width:100vw ;
+    height: 50vh;
+    background-color: white;
+}
+.new-section-3{
+    width: 80%;
+    height: 100%;
+    background-color:white;
+    margin: 0 auto; 
+}
+.img-4{
+    width: 300px;;
+    height: 300px;
+    display: inline;
+    border-radius: 100%;
+    background-image: url(../css/03.jpg);
+    
+}
+.end{
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(77, 77, 75);
+}
+.end-1{
+    text-align: center;
+    padding: 1cm 0 0 0;
+}
